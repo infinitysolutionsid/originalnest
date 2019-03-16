@@ -8,11 +8,7 @@ $title = "Indonesia Bird Nest | Original Indonesia Birds Nest";
 $titleproduct = "Product And Solutions | Heat Transfer";
 $titleproductii = "Product And Solutions | Separation Equipment";
 $titleproductiii = "Product And Solutions | Fluid Handling Equipment";
-$titleindustries = "WH ALLEN | Industries";
-$titlesupport = "WH ALLEN | Services And Support";
-$titlecontact = "WH ALLEN | Contact Us";
 $title404 = "404 | Page not found!";
-$about = "WH ALLEN | About Us";
 // CONTENT HERE
 include 'content/menu.php';
 if (isset($_GET['page'])) {
